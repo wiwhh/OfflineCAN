@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "app_led_thread.h": "c",
+        "app_create_thread.h": "c",
+        "bsp_api.h": "c",
+        "bsp_common.h": "c",
+        "hal_data.h": "c",
+        "debug.h": "c",
+        "elog.h": "c",
+        "elog_cfg.h": "c"
+    }
+}
